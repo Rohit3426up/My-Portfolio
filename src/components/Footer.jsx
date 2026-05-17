@@ -231,9 +231,6 @@ export default function Footer() {
                 <p style={{ color: '#64748b', fontSize: '0.85rem' }}>
                     © 2024 Rohit Kumar. All rights reserved.
                 </p>
-                <p style={{ color: '#64748b', fontSize: '0.85rem' }}>
-                    Designed & Built with 💛
-                </p>
             </div>
 
             <style>{`
